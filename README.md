@@ -1,22 +1,24 @@
-# data-structure
-Neste repositório estão estudos somente relacionados a Estrutura de Dados<br>
+# 📚 Data Structure
 
-# Abordagens:
+Repositório dedicado ao estudo e prática de **Estruturas de Dados** e Algoritmos.
+
+## 📋 Tópicos Abordados
 
 - Arrays e Collections
 - Vetores
 - Pilhas e Filas (Estáticas e Dinâmicas)
-- Listas Encadedas
-- Arvores
+- Listas Encadeadas
+- Árvores
 - Grafos
 - Algoritmos de Busca
 - Algoritmos de Ordenação
-- Notação O (Complexidade de Algorimos)
+- Notação O (Complexidade de Algoritmos)
 
-# Fontes de Estudo:
+## 📖 Fontes de Estudo
 
-- Nelio Alves
-Udemy: Curso Completo de Java
+- **Nelio Alves** - [Curso Completo de Java (Udemy)](https://www.udemy.com)
+- **Loyane Grouner** - [Playlist de Estrutura de Dados (YouTube)](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)
 
-- Loyane Grouner:
-https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi
+## 🎯 Objetivo
+
+Consolidar conhecimentos em estruturas de dados através de exemplos práticos e exercícios implementados em **Java**.
